@@ -1,0 +1,11 @@
+br\com\petshop\dao\ClienteDaoImpl.class
+br\com\petshop\dao\ClienteDao.class
+br\com\petshop\entidade\Animal.class
+br\com\petshop\entidade\Cachorro.class
+br\com\petshop\dao\HibernateUtil.class
+br\com\petshop\util\GeradorUtil.class
+br\com\petshop\dao\BaseDaoImpl.class
+br\com\petshop\entidade\Comportamento.class
+br\com\petshop\dao\BaseDao.class
+br\com\petshop\util\GeraTabela.class
+br\com\petshop\entidade\Gato.class
